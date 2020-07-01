@@ -6,7 +6,7 @@ Run MTG Arena on Mac with custom resolution without Epic Games Launcher
 2. ``chmod +x run_arena.sh``
 3. Run ``run_arena.sh`` providing fullscreen mode and resolution, for example ``./run_arena.sh 0 1680 1050``
 
-If you want to run MTGA from Spotlight just create .command file just like im the example. 
+If you want to run MTGA from Spotlight just create .command file just like in the example. 
 1. Clone repository
 2. Edit exemplary ``.command`` file to run your ``run_arena.sh`` script.
 3. ``chmod +x your_file.command``
