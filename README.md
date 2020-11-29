@@ -14,6 +14,8 @@ If you want to run MTGA from Spotlight just create .command file just like in th
 
 Of course you can have multiple ``.command`` with various resolution settings if you need to.
 
+You can also make an alias to your ``.command`` file and put it in your Applications folder, so you can run your custom resolution MTGA from Launchpad (thanks [James Harrys](https://github.com/JamesHarrys) for that suggestion!).
+
 ## Resolution issues
 You should run MTG Arena with resolution matching aspect ratio of your desktop resolution. For example standard MacBook aspect ratio is 16:10, so your resolution may be 1680x1050. If you use external display with 16:9 aspect ratio you should use 1600x900.
 
