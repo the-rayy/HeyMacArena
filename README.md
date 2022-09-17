@@ -1,6 +1,9 @@
 # HeyMacArena
 Run MTG Arena on Mac with custom resolution without Epic Games Launcher
 
+# DEPRECATED
+Method used in this repo does not work anymore. 
+
 ## Usage
 1. Clone repository
 2. ``chmod +x run_arena.sh``
